@@ -1,0 +1,17 @@
+{
+  "title": "<psycho-pass inspector shinya kogami>",
+  "description": "<manga description>",
+  "artist": "<manga artist>",
+  "author": "<manga author>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "<chapter number>": {
+      "title": "<case1>",
+      "volume": "<1>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<s75nzqN>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
